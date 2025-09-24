@@ -1,1 +1,1 @@
-## Hello World ! There's a basic landing page !
+# Hello World ! There's a basic landing page !
