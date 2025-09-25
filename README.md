@@ -165,12 +165,12 @@ Take screenshots using your browser (DevTools > Full Page Screenshot) or extensi
 * [GoFullPage (Chrome)](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl)
 * [Firefox Screenshot Tool](https://support.mozilla.org/en-US/kb/take-screenshots-firefox)
 
-Save them in `./screenshots/` and replace the placeholders in this markdown file.
+Save them in `./assets/screenshots/` and replace the placeholders in this markdown file.
 
 ---
 
 ### Final Thoughts
 
-This landing page is a fantastic starter project — it uses real content, clean design, and practical layout ideas. It's a great learning base for introducing concepts like responsive design, semantic structure, and component reuse.
+This landing page is a fantastic starter project — it uses real content (will 🙂‍↕️🙂‍↕️), clean design, and practical layout ideas. It's a great learning base for introducing concepts like responsive design, semantic structure, and component reuse.
 
-Keep building! 
+Keep building Meg! 
