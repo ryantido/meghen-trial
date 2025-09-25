@@ -7,11 +7,6 @@
 > *Main landing page showcasing a luxury Northern California retreat. Actually, with dumb images*
 
 ---
-![Screenshot of Coastal Retreat Landing Page](./assets/screenshots/mobileFisrt.png)
-
-> *ACtually, this is the mobile version (Yep, it's fully responsive !)*
-
----
 ### Overview
 
 This is a **responsive landing page** built with basic **HTML and CSS**, designed as a trial project to help a younger sibling learn about web development. The page is clean, elegant, and ideal for promoting a boutique hotel or retreat.
@@ -32,7 +27,7 @@ coastal-retreat/
     └── footer.png
 ```
 
-> *Make sure to add your screenshots to the `screenshots/` folder for full documentation support.*
+> *Make sure to add your screenshots to the `./assets/screenshots/` folder for full documentation support.*
 
 ---
 
@@ -40,7 +35,7 @@ coastal-retreat/
 
 #### 1. **Header**
 
-![Header Screenshot](./screenshots/header.png)
+![Header Screenshot](./assets/screenshots/header.png)
 
 * **Logo** with a nature-themed image and site title.
 * **Navigation Menu**: Links to sections like Rooms, Dining, Spa, etc.
@@ -61,7 +56,7 @@ coastal-retreat/
 
 #### 2. **Hero Section**
 
-![Hero Section](./screenshots/hero.png)
+![Hero Section](./assets/screenshots/hero.png)
 
 * Bold title (`<h1>`) and short, enticing description.
 * **Secondary CTA**: “Book Your Stay”.
@@ -78,7 +73,7 @@ coastal-retreat/
 
 #### 3. **Offerings Section**
 
-![Offerings Section](./screenshots/offerings.png)
+![Offerings Section](./assetsscreenshots/offerings.png)
 
 Three **feature cards** showcasing:
 
@@ -105,6 +100,8 @@ Each card includes:
 
 #### 4. **Plan Your Escape Section**
 
+![Escape sections](./assets/screenshots/escape.png)
+
 * Short motivational CTA to encourage booking
 * Big bold button
 
@@ -120,7 +117,7 @@ Each card includes:
 
 #### 5. **Footer**
 
-![Footer Screenshot](./screenshots/footer.png)
+![Footer Screenshot](./assets/screenshots/footer.png)
 
 Includes:
 
@@ -142,6 +139,10 @@ Includes:
 ### Features
 
 * **Responsive Layout** (ensure your CSS handles mobile views)
+
+![Escape sections](./assets/screenshots/mobileFisrt.png)
+
+
 * **Optimized Images** (via Unsplash, with lazy loading)
 * **Clear CTAs** to drive user actions
 * **Relaxing aesthetic** for a luxury experience

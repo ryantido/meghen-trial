@@ -258,6 +258,7 @@ footer ul {
     footer {
         text-align: center;
     }
+
     footer ul {
         flex-direction: column;
         gap: .25rem;
