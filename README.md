@@ -73,7 +73,7 @@ coastal-retreat/
 
 #### 3. **Offerings Section**
 
-![Offerings Section](./assetsscreenshots/offerings.png)
+![Offerings Section](./assets/screenshots/offerings.png)
 
 Three **feature cards** showcasing:
 
